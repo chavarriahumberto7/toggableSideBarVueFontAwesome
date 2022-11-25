@@ -16,8 +16,11 @@ You only need the components under folder named sidebar
 
 ![image](https://user-images.githubusercontent.com/72934134/204058773-93591927-b472-4b30-8ac9-b67d792f1487.png)
 
-#### How do up mange styles and colors?
-No nned to worry, everthing is inside the component itself. To manage color themes just update the following variables under VSSidebar.vue file
+#### How do I setup custome colors and theme for the sidebar?
+
+No need to worry, everthing is inside the component itself. 
+To manage color themes just update the following variables under VSSidebar.vue file.
+
 ![image](https://user-images.githubusercontent.com/72934134/204058990-9dc3a755-d9fe-4437-a5d4-75203e9cbd92.png)
 
 
