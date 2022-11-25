@@ -1,4 +1,8 @@
-# vue-chava-sidebar
+# Toggable Sidebar with Vue 3
+
+This a reusable togable sidebar with Vue3 using fontAwesomeIcons
+
+![image](https://user-images.githubusercontent.com/72934134/204056208-c13880c2-2790-433c-9f62-d7a1c736a64e.png)
 
 ## Project setup
 ```
