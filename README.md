@@ -2,7 +2,24 @@
 
 This a reusable togable sidebar with Vue3 using fontAwesomeIcons
 
-![image](https://user-images.githubusercontent.com/72934134/204056208-c13880c2-2790-433c-9f62-d7a1c736a64e.png)
+![ChavaToggleNavbar (1)](https://user-images.githubusercontent.com/72934134/204058523-808320a0-d610-40f0-ad1c-bfafb207d535.gif)
+
+## FAQ
+
+#### What dependencies are needed?
+
+@fortawesome/fontawesome-free  
+
+#### WWhat components do I need to make it work in my project?
+
+You only need the components under folder named sidebar
+
+![image](https://user-images.githubusercontent.com/72934134/204058773-93591927-b472-4b30-8ac9-b67d792f1487.png)
+
+#### How do up mange styles and colors?
+No nned to worry, everthing is inside the component itself. To manage color themes just update the following variables under VSSidebar.vue file
+![image](https://user-images.githubusercontent.com/72934134/204058990-9dc3a755-d9fe-4437-a5d4-75203e9cbd92.png)
+
 
 ## Project setup
 ```
